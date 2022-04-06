@@ -4,7 +4,7 @@
   "layout": [
     [
       [
-        "KC_ESCAPE",
+        "KC_TAB",
         "KC_DOT",
         "KC_COMMA",
         "KC_SCOLON",
@@ -18,7 +18,7 @@
         "KC_BSPACE"
       ],
       [
-        "KC_TAB",
+        "LCTL_T(KC_ESCAPE)",
         "KC_A",
         "KC_O",
         "KC_E",
@@ -32,8 +32,8 @@
         "KC_QUOTE"
       ],
       [
-        "KC_LSHIFT",
-        "KC_MINUS",
+        "LSFT_T(KC_NONUS_BSLASH)",
+        "KC_SLASH",
         "KC_Q",
         "KC_J",
         "KC_K",
@@ -43,21 +43,21 @@
         "KC_W",
         "KC_V",
         "KC_Z",
-        "KC_ENTER"
+        "RSFT_T(KC_ENTER)"
       ],
       [
         "KC_CAPSLOCK",
-        "KC_LCTRL",
+        "KC_TRNS",
         "KC_LGUI",
         "KC_LALT",
         "MO(1)",
         "KC_SPACE",
         -1,
         "KC_RALT",
+        "KC_RALT",
         "KC_RCTRL",
-        "KC_LEFT",
-        "KC_DOWN",
-        "KC_RIGHT"
+        "KC_TRNS",
+        "KC_ENTER"
       ]
     ],
     [
