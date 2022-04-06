@@ -73,7 +73,7 @@
         "RGB_VAD",
         "KC_LBRACKET",
         "KC_RBRACKET",
-        "KC_BSLASH"
+        "KC_EQUAL"
       ],
       [
         "KC_GRAVE",
@@ -100,7 +100,7 @@
         23908,
         23909,
         "KC_QUOTE",
-        "KC_NONUS_HASH",
+        "KC_BSLASH",
         "KC_SLASH"
       ],
       [
