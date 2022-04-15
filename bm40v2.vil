@@ -127,10 +127,10 @@
         "KC_TRNS",
         "KC_TRNS",
         "KC_TRNS",
-        "KC_PGUP",
-        "KC_UP",
+        "KC_HOME",
         "KC_PGDOWN",
-        "KC_TRNS",
+        "KC_PGUP",
+        "KC_END",
         "KC_DELETE"
       ],
       [
@@ -140,11 +140,11 @@
         "KC_LSHIFT",
         "KC_LCTRL",
         "KC_TRNS",
-        "KC_HOME",
+        "KC_TRNS",
         "KC_LEFT",
         "KC_DOWN",
+        "KC_UP",
         "KC_RIGHT",
-        "KC_END",
         "KC_TRNS"
       ],
       [
