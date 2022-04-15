@@ -29,7 +29,7 @@
         "KC_T",
         "KC_N",
         "KC_S",
-        "KC_QUOTE"
+        "RCTL_T(KC_QUOTE)"
       ],
       [
         "LSFT_T(KC_NONUS_BSLASH)",
@@ -55,7 +55,7 @@
         -1,
         "MO(2)",
         "KC_RALT",
-        "KC_RCTRL",
+        "KC_RGUI",
         "KC_TRNS",
         "KC_TRNS"
       ]
