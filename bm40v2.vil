@@ -264,5 +264,6 @@
   "via_protocol": 9,
   "tap_dance": [],
   "combo": [],
+  "key_override": [],
   "settings": {}
 }
