@@ -32,7 +32,7 @@
         "RCTL_T(KC_QUOTE)"
       ],
       [
-        "LSFT_T(KC_NONUS_BSLASH)",
+        "LSFT_T(KC_BSLASH)",
         "KC_SLASH",
         "KC_Q",
         "KC_J",
@@ -87,7 +87,7 @@
         "RALT(KC_QUOTE)",
         "RSFT(KC_1)",
         "KC_EQUAL",
-        "KC_BSLASH"
+        "KC_TRNS"
       ],
       [
         "KC_TRNS",
