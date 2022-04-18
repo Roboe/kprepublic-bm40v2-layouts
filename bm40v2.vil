@@ -62,7 +62,7 @@
     ],
     [
       [
-        "KC_TRNS",
+        "KC_GRAVE",
         "LSFT(KC_1)",
         "LSFT(KC_2)",
         "LSFT(KC_3)",
@@ -76,7 +76,7 @@
         "KC_DELETE"
       ],
       [
-        "KC_TRNS",
+        "LSFT(KC_GRAVE)",
         "LSFT(KC_6)",
         "LSFT(KC_7)",
         "LSFT(KC_8)",
@@ -90,7 +90,7 @@
         "KC_TRNS"
       ],
       [
-        "KC_TRNS",
+        "RALT(KC_GRAVE)",
         "RALT(KC_1)",
         "RALT(KC_2)",
         "RALT(KC_3)",
