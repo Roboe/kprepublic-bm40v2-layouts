@@ -48,14 +48,14 @@
       [
         "KC_CAPSLOCK",
         "MO(3)",
-        "KC_LGUI",
         "KC_LALT",
+        "KC_LGUI",
         "MO(1)",
         "KC_SPACE",
         -1,
         "MO(2)",
-        "KC_RALT",
         "KC_RGUI",
+        "KC_RALT",
         "KC_MYCM",
         "KC_MUTE"
       ]
