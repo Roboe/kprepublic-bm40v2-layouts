@@ -110,7 +110,7 @@ Capa 3 (función y miscelánea)
 
 ```
 |-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|
-|RESET| FN1 | FN2 | FN3 | FN4 | FN5 |     | (*) | (*) | (*) | (*) |     |
+|     | FN1 | FN2 | FN3 | FN4 | FN5 |     | (*) | (*) | (*) | (*) |RESET|
 |-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|
 |     | FN6 | FN7 | FN8 | FN9 | F10 |     | (*) | (*) | (*) | (*) |     |
 |-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|
@@ -123,6 +123,6 @@ Capa 3 (función y miscelánea)
 
 Leyenda:
 
-- `RESET`: resetear teclado
+- `RESET`: reinicia al cargador de arranque del teclado
 - `FNx` o `Fxx`: tecla de función con el número que figura (F1, F2... hasta F12)
 - `(*)`: tecla específica del _firmware_ QMK para controlar las luces led traseras y por tecla

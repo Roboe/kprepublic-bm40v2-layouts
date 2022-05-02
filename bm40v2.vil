@@ -178,7 +178,7 @@
     ],
     [
       [
-        "RESET",
+        "KC_TRNS",
         "KC_F1",
         "KC_F2",
         "KC_F3",
@@ -189,7 +189,7 @@
         "RGB_MOD",
         23902,
         23903,
-        "KC_TRNS"
+        "RESET"
       ],
       [
         "KC_TRNS",
