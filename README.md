@@ -114,7 +114,7 @@ Capa 3 (función y miscelánea)
 |-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|
 |     | FN6 | FN7 | FN8 | FN9 | F10 |     | (*) | (*) | (*) | (*) |     |
 |-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|
-|     | F11 | F12 |     |     |     |     | (*) | (*) | (*) | (*) |     |
+|     | F11 | F12 |     |     |CAPTP|CAPTS| (*) | (*) | (*) | (*) |     |
 |-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|
 |     |     |     |     |     |           | (*) | (*) | (*) | (*) |     |
 |-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|-- --|
@@ -123,6 +123,8 @@ Capa 3 (función y miscelánea)
 
 Leyenda:
 
+- `CAPTP`: capturar pantalla (completa)
+- `CAPTS`: capturar pantalla (selección)
 - `RESET`: reinicia al cargador de arranque del teclado
 - `FNx` o `Fxx`: tecla de función con el número que figura (F1, F2... hasta F12)
 - `(*)`: tecla específica del _firmware_ QMK para controlar las luces led traseras y por tecla
