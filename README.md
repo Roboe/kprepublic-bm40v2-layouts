@@ -43,12 +43,10 @@ Leyenda:
 - `ALTGR`: alternativa gráfica (alt. gr.)
 - `ARCHV`: abrir la carpeta personal de archivos [función]
 - `BQMAY`: bloqueo de mayúsculas (bloq. mayús.)
-- `CTR`: control (ctrl.)
-- `CTR-´`: cuando se pulsa, ce cedilla (ç); mientras se presiona, control (ctrl.)
-- `C-ESC`:  cuando se pulsa, escape (esc.); mientras se presiona, control (ctrl.)
-- `GUI`: súper (Windows o comando, en Mac)
-- `MAY`: mayúsculas (mayús.)
-- `MAY-<`: cuando se pulsa, signo menor que (`<`); mientras se presiona, mayúsculas (mayús.)
+- `CTR-´`: cuando se pulsa, acento agudo (`´`); mientras se presiona, control (ctrl.)
+- `C-ESC`: cuando se pulsa, escape (esc.); mientras se presiona, control (ctrl.)
+- `GUI`: súper (Windows o, en Mac, comando)
+- `MAY-Ç`: cuando se pulsa, ce cedilla (ç); mientras se presiona, mayúsculas (mayús.)
 - `M-INT`: cuando se pulsa, entrar (intro.); mientras se presiona, mayúsculas (mayús.)
 - `RET`: retroceso
 - `SIL`: silenciar volumen [función]
@@ -91,7 +89,7 @@ Capa 2 (números y navegación)
 
 Leyenda:
 
-- `. NUM`: punto (´.`) numérico
+- `. NUM`: punto (`.`) numérico
 - `AVPÁG`: avanzar página (av. pág.)
 - `BQNUM`: bloqueo numérico (bloq. num.)
 - `CLIZQ`: clic izquierdo del ratón
