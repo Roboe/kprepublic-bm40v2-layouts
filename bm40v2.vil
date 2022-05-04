@@ -99,8 +99,8 @@
         "RSFT(KC_LBRACKET)",
         "RSFT(KC_NONUS_BSLASH)",
         "KC_NONUS_BSLASH",
-        "RALT(KC_X)",
-        "RALT(KC_Z)",
+        "LSA(KC_BSLASH)",
+        "LSA(KC_QUOTE)",
         "KC_TRNS"
       ],
       [
