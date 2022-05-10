@@ -184,7 +184,7 @@
         "KC_F3",
         "KC_F4",
         "KC_F5",
-        "KC_NO",
+        "SGUI(KC_EJCT)",
         "RGB_TOG",
         "RGB_MOD",
         23902,
