@@ -134,7 +134,7 @@
         "KC_BSPACE"
       ],
       [
-        "KC_TRNS",
+        "LALT_T(KC_ESCAPE)",
         "KC_KP_6",
         "KC_KP_7",
         "KC_KP_8",
